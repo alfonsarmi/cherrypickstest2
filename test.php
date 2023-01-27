@@ -30,8 +30,8 @@ class UserController extends FOSRestController
 
 
 
-    /**
-     * @Rest\Route("/v3/user/prepare", methods={"POST"}) another test
+    /** test
+     * @Rest\Route("/v3/user/prepare", methods={"POST"})
      * @View()
      *
      * @return User
